@@ -1,0 +1,2 @@
+# Project dependencies
+# Python standard library only
