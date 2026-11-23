@@ -1,11 +1,36 @@
-# My First College Project
+# 🚀 My First College Project
 
-## About
-This is my first project uploaded to GitHub.
-I am learning Python programming and GitHub.
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
 
-## Language Used
+## 📌 About
+Welcome to my first GitHub project!
+This repository is created to learn programming,
+GitHub, and software development.
+
+## 🎯 Objective
+- Learn Python programming
+- Understand Git and GitHub
+- Upload and manage project files
+- Improve coding skills
+
+## 🛠️ Technologies Used
 - Python
+- GitHub
 
-## Author
+## 📂 Project Structure
+my-first-college-project/
+│
+├── README.md
+└── hello.py
+
+## ▶️ How to Run
+
+```bash
+python hello.py
+```
+
+## 👨‍💻 Author
 Student Developer
+
+Learning coding, one project at a time.
