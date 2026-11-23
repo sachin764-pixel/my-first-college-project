@@ -1,4 +1,2 @@
-name = input("Enter your name: ")
-
-print("Hello", name)
-print("Welcome to my GitHub project!")
+print("Hello! Welcome to my GitHub project.")
+print("I am learning Python and software development.")
